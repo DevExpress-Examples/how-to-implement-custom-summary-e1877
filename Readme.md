@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ASPxPivotGrid_CustomSummary/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_CustomSummary/Default.aspx))
-* [Default.aspx.cs](./CS/ASPxPivotGrid_CustomSummary/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxPivotGrid_CustomSummary/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_CustomSummary/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_CustomSummary/Default.aspx.vb))
 <!-- default file list end -->
 # How to Implement Custom Summary
 
